@@ -5,6 +5,6 @@ We are going to predict...
 Our main objective is to...
 
 Collaborators:
-ABhi Patel
+Abhi Patel
 Fahad Ali Khan
 Inderpreet Singh Parmar
